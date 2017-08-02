@@ -1,0 +1,17 @@
+{
+  "name": "rock-paper-scizzors",
+  "version": "1.0.0",
+  "description": "Simple JS game",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Łukasz Weyer",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "jshint": "^2.9.5"
+  }
+}
